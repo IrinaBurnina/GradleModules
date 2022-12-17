@@ -16,7 +16,6 @@ dependencies {
 dependencies {
     implementation project(":db")
 }
-
 test {
     useJUnitPlatform()
 }
